@@ -81,6 +81,11 @@ if __name__ == "__main__":
     monitor_logs()
 
 ```
+#### Status of attempts
+![Attack detection](assets/failed-logs.png)
+
+#### Consequence
+![](assets/ufw.png)
 
 ---
 
